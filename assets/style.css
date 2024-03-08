@@ -7,7 +7,7 @@ body {
 	font-style: normal;
 }
 .top-header {
-	background-color: white;
+	background-color: #fff;
 	position: sticky;
 	top:0;
 	z-index: 1000;
@@ -44,7 +44,7 @@ body {
 
 #about {
 	display: flex;
-	background-color: #F6D2B8;
+	background-color: #f6d2b8;
 	padding-inline: 100px;
 	padding-block: 100px;
 	position: relative;
@@ -52,7 +52,7 @@ body {
 
 .picture.left::before {
 	content: ' ';
-	background-color: #E5975F;
+	background-color: #e5975f;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -106,7 +106,7 @@ body {
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
 	font-weight: 800;
-	background-color: #BEB45A;
+	background-color: #beb45a;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -183,7 +183,7 @@ body {
 }
 
 .service {
-	background-color: white;
+	background-color: #fff;
 	max-width: 390px;
 	width: 30%;
 	height: 337px;
@@ -207,7 +207,7 @@ body {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: #beb45a;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -244,7 +244,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #BEB45A;
+	background-color: #beb45a;
 	padding: .5em 1em
 }
 
