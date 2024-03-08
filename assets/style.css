@@ -93,7 +93,7 @@ body{
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link{
 	color: #fff;
 	font-weight: 800;
-	background-color: #beb45a;
+	background-color: #807732;
 	border-radius:0 ;
 }
 .nav-pills .nav-link{
@@ -186,7 +186,7 @@ body{
 }
 .picture.right::before{
 	content: ' ';
-	background-color: #beb45a;
+	background-color: #807732;
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -220,7 +220,7 @@ form textarea{
 	margin-bottom: 20px;
 }
 input[type="submit"]{
-	background-color: #beb45a;
+	background-color: #807732;
 	padding: .5em 1em
 }
 @media all and (max-width: 1180px){
